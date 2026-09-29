@@ -1,3 +1,3 @@
 <template>
-  <h1>DeckDetail</h1>
+  <h1>Deck Detail</h1>
 </template>

@@ -1,3 +1,3 @@
 <template>
-  <h1>Decks</h1>
+  <h1>Decks View</h1>
 </template>
